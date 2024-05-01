@@ -18,6 +18,7 @@ Here are some pieces of information about the genetic algorithm:
 - Natural selection with biased roulette;
 - Mutation rate = 1% (just one coordinate X or Y is changed by the mutation);
 - The crossover creates three children "c" between two parents "p1" and "p2" and selects the best one to move on to the next generation:
+
 ![image](https://github.com/hugodiasg/ga-samu/assets/80465879/92157a48-9eba-4914-a526-b0f2a709e928)
  
 ## Running the Genetic Algorithm
