@@ -5,10 +5,10 @@ format long
 data_base;
 
 %% Initialize the population
-  %number_population =int32(input('Number of population to be initialized:'));
-  %generations =int32(input('Max. of generations:'));
-  generations= 100;
-  number_population= 20;
+  number_population =int32(input('Number of population:'));
+  generations =int32(input('Max. of generations:'));
+  %generations= 100;
+  %number_population= 20;
   
   population=zeros(number_population, 4);
   %disp(population)
